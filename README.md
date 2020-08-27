@@ -10,7 +10,7 @@ Página de login feita com PHP, com sistema de cookies, para lembrar login e sen
 
 ### Primeiramente importe o banco de dados que esta no diretório principal.
 
-### Depois abra o arquivo config.php na pasta classes e altere essas constantes a seguir:
+### Depois abra o arquivo MySql.php na pasta classes e altere essas constantes a seguir:
   
 >Aqui você defini as constantes para o banco de dados, se você usa um 
 servidor local como xampp você só vai ter que alterar o `DATABASE` e 
